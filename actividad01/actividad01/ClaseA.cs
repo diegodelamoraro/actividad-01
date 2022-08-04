@@ -9,5 +9,6 @@ namespace actividad01
     public class ClaseA
     {
         public string foobar { get; set; }
+        public string lorem { get; set; }
     }
 }
